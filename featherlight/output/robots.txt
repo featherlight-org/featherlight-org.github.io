@@ -1,4 +1,4 @@
-Sitemap: https://featherlight.github.io/sitemapindex.xml
+Sitemap: https://featherlight-org.github.io/sitemapindex.xml
 
 User-Agent: *
-Host: featherlight.github.io
+Host: featherlight-org.github.io
