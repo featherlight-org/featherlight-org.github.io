@@ -1220,4 +1220,14 @@ GLOBAL_CONTEXT = {}
 # Add functions here and they will be called with template
 # GLOBAL_CONTEXT as parameter when the template is about to be
 # rendered
+
+THEME="zen"
 GLOBAL_CONTEXT_FILLER = []
+NAVIGATION_LINKS = {
+    DEFAULT_LANG: (
+        ('/index.html', 'Home', 'icon-home'),
+        ('https://featherlight-org.github.io/', 'About me', 'icon-user'),
+        ('https://twitter.com/froztbyte', 'JP', 'icon-twitter'),
+        ('https://github.com/featherlight-org', 'Featherlight Consulting on Github', 'icon-github'),
+    )
+}
