@@ -6,15 +6,15 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>https://featherlight.github.io/galleries/rss.xml</loc>
-  <lastmod>2016-09-14T12:22:00Z</lastmod>
+  <loc>https://featherlight-org.github.io/galleries/rss.xml</loc>
+  <lastmod>2016-09-14T13:24:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://featherlight.github.io/rss.xml</loc>
-  <lastmod>2016-09-14T12:22:00Z</lastmod>
+  <loc>https://featherlight-org.github.io/rss.xml</loc>
+  <lastmod>2016-09-14T13:24:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://featherlight.github.io/sitemap.xml</loc>
-  <lastmod>2016-09-14T12:22:00Z</lastmod>
+  <loc>https://featherlight-org.github.io/sitemap.xml</loc>
+  <lastmod>2016-09-14T13:24:00Z</lastmod>
  </sitemap>
 </sitemapindex>
